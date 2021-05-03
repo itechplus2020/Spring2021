@@ -11,9 +11,9 @@ The aim is to analyse the 9 attributes to find out one of the six classes of fre
 	Mas	Mastopathy		18		
 	Gla	Glandular		16		
 	Con	Connective		14		
-	Adi	Adipose		22		
-				106		
-Impedance measurements were made at the frequencies: 15.625, 31.25, 62.5, 125, 250, 500, 1000 KHz. These measurements plotted in the (real, -imaginary) plane constitute 						
+	Adi	Adipose		        22		
+						
+106 Impedance measurements were made at the frequencies: 15.625, 31.25, 62.5, 125, 250, 500, 1000 KHz. These measurements plotted in the (real, -imaginary) plane constitute 						
 The impedance spectrum from where the features below are computed.				
 		
 9 features/attributes:						
@@ -25,7 +25,8 @@ The impedance spectrum from where the features below are computed.
 	AREA	area under spectrum				
 	A/DA	area normalized by DA				
 	MAX IP	maximum of the spectrum				
-	DR	distance between I0 and real part of the maximum frequency point			P	length of the spectral curve				
+	DR	distance between I0 and real part of the maximum frequency point			
+	P	length of the spectral curve				
 						
 References: 	J. Jossinet (1996) Variability of impedivity in normal and pathological breast tissue. Med. & Biol. Eng. & Comput, 34: 346-350.					
-	JE Silva, JP Marques de Sá, J Jossinet (2000) Classification of Breast Tissue by Electrical Impedance Spectroscopy. Med & Bio Eng & Computing, 38:26-30.
+	JE Silva, JP Marques de SÃ¡, J Jossinet (2000) Classification of Breast Tissue by Electrical Impedance Spectroscopy. Med & Bio Eng & Computing, 38:26-30.
